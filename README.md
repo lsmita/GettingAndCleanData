@@ -31,8 +31,8 @@ run_analysis.R performs the following:
 
 5. Now it loads the descriptive names for activities and uses it to replace activity id with descriptive names. It labels the Subject and Activity columns for the appropriate data sets.
 
-6. The three data sets measurementData, activityData and subjectData, are merged. Then, it is written as a text file into the 'weeks' folder in the same working directory, named 'measurement_tidy_data.txt'.
+6. The three data sets measurementData, activityData and subjectData, are merged. Then, it is written as a text file into the 'weeks' folder in the same working directory, named 'tidy_data.txt'.
 
-7. Using the tidy data set from step 6, it creates a new average dataset by calculating the mean/average of each measurement by subject and activity. This summary data set is written into the 'week3' folder as text file; this is named average_measurement_tidy_data.txt.
+7. Using the tidy data set from step 6, it creates a new average dataset by calculating the mean/average of each measurement by subject and activity. This summary data set is written into the 'week3' folder as text file; this is named summary_tidy_data.txt.
 
 The R code contains str for easier preview of the two final data sets.
