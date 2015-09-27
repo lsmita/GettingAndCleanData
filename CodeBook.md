@@ -21,8 +21,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ##Variable Descriptions
 Variable |	Description
 ---------|--------------
-subject |	Subject ID
-activity |	The activity performed
+(Ss)ubject |	Subject ID
+(Aa)ctivity |	The activity performed
 TimeBodyAccelerometerMean-X | 	Mean time for acceleration of body for X direction
 TimeBodyAccelerometerMean-Y |	Mean time for acceleration of body for Y direction
 TimeBodyAccelerometerMean-Z |	Mean time for acceleration of body for Z direction
